@@ -9,4 +9,4 @@ deploy:
   provider: heroku
   api_key:
     secure: $API_KEY
-app: kritnerflaskhelloworld
+  app: kritnerflaskhelloworld
